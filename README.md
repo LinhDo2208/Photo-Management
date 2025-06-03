@@ -1,12 +1,18 @@
-_After running the program, a function menu will be displayed. Users can interact with the program by entering the corresponding number from 1 to 7. The program includes the following functions:
-_
-__**1. Add a new photo to the list
+_After running the program, a function menu will be displayed. Users can interact with the program by entering the corresponding number from 1 to 7. The program includes the following functions:_
+
+1. Add a new photo to the list
+
 2. Show the list of photos
+
 3. Search for photos by name
+
 4. Edit photo information
+
 5. Delete a photo
+
 6. Recycle bin
-7. Sort the photo list**_
+
+7. Sort the photo list
 
 **I. Add a New Photo to the List**
 - Select “1” from the menu.
@@ -42,4 +48,5 @@ IV. Edit photo information
 - Select "4", and all the name of photos (without data) in the list in their index will be displayed.
 - Enter the index corresponding to the name of photo which you want to edit.
 - The message "New name: ", "New date of creation: ", "New date of modification: ", "New date of access: " will appear respectively for you to edit
+
   _(The size and the path of photo is constant so you can not edit these elements)._
