@@ -111,6 +111,6 @@ Choose "2 (3, 4, 5, respectively)". There ar 2 option: _Ascending_ or _Descendin
 
 +) Select "2": the list of photos will be sorted by date of creation (date of modification, date of access, size) in descending order.
 
-_**VII. Exit**_
+**VII. Exit**
 
 Choose "0" in each menu to _Exit_ or _Back_.
