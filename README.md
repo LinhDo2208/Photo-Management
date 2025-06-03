@@ -55,6 +55,7 @@ _**7. Sort the photo list**_
   +) Path to the file on the computer
 
 **III. Search for Photos by Name**
+
 - Select “3” from the menu.
 - The message “Enter the name of finding photo:” will appear.
 - Enter full name or a part of the name of the photo.
@@ -63,6 +64,7 @@ _**7. Sort the photo list**_
 - The matching photos with all data of them will be displayed immediately.
 
 **IV. Edit Photo Information**
+
 - Select "4", and all the name of photos (without data) in the list and their indexes will be displayed.
 - Enter the index corresponding to the name of photo which you want to edit.
 - The message "New name: ", "New date of creation: ", "New date of modification: ", "New date of access: " will appear respectively for you to edit
@@ -70,15 +72,45 @@ _**7. Sort the photo list**_
   _(The size and the path of photo is constant so you can not edit these elements)._
 
 **V. Delete a Photo**
+
 - Select "5" to view all the name of photos in "photos.txt" (without data) and their indexes.
 - Enter the index corresponding to the name of photo which you want to delete.
 - The selected photo’s data will be removed from “photos.txt” and transferred to “Rubbish.txt” (the recycle bin).
 
 **VI. Recycle Bin**
 Select "6", all of photos in "Rubbish.txt" will be displayed. Moreover, there are 2 options for you:
+
 _**a) Restore**_
+
 - Select "1", all the name of photos in "Rubbish.txt" (without data) and their indexes will be shown.
 - Enter the index corresponding to the name of photo which you want to store.
 - The selected photo’s data will be deleted from “Rubbish.txt” and added to “photos.txt”.
+
 _**b) Permanently Delete**_
-- Select "2",  
+
+- Select "2",  The remaining processes are similar to "a)".
+- But, The selected photo’s data will not be added to “photos.txt”.
+
+**VII. Sort**
+ 
+Choose "7", there are 5 selections for you:
+
+_**a)Sort by name**_
+
+Choose "1". There are 2 options: _A-Z_ or _Z-A_
+
++) Select "1": the list of photos will be sorted by name from A to Z.
+
++) Select "2": the list of photos will be sorted by name from Z to A.
+
+_**b) Sort by date of creation (date of modification, date of access, size)**_
+
+Choose "2 (3, 4, 5, respectively)". There ar 2 option: _Ascending_ or _Descending_
+
++) Select "1": the list of photos will be sorted by date of creation (date of modification, date of access, size) in ascending order.
+
++) Select "2": the list of photos will be sorted by date of creation (date of modification, date of access, size) in descending order.
+
+_**VII. Exit**_
+
+Choose "0" in each menu to _Exit_ or _Back_.
