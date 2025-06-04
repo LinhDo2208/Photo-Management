@@ -114,3 +114,5 @@ Choose "2 (3, 4, 5, respectively)". There ar 2 option: _Ascending_ or _Descendin
 **VII. Exit**
 
 Choose "0" in each menu to _Exit_ or _Back_.
+
+_**Note: We have some icons in this project so you must install some in the first part of this video: https://www.youtube.com/watch?v=Gk0p6wtVVto&t=1063s if you want to run without font error!**_
